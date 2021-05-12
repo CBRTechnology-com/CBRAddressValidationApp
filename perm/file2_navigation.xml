@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NavigationDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:dynamics:NAV:MetaObjects">
+  <ActionContainers ActionContainerType="Departments">
+    <Actions xsi:type="ActionGroupDefinition" Caption="Extension" ControlGUID="{c86d4bcc-6242-492b-82af-0cd8460fa341}">
+      <Actions xsi:type="ActionDefinition" PushAction="RunObject" RunObjectType="Page" TargetID="70376826" DepartmentCategory="Administration" RunObjectSrcTable="70376826" ControlGUID="{bb1aa6f0-b564-4a76-9861-9c0d5b835432}" Name="CBR_Address Validation Setup" CaptionML="ENU=Address Validation Setup" ApplicationArea="#All" AdditionalSearchTerms="ENU=CBR_Address Validation Setup" CaptionTranslationKey="Page 4161220986 - Property 2879900210" AdditionalSearchTermsTranslationKey="Page 4161220986 - Property 3863440606" />
+    </Actions>
+  </ActionContainers>
+  <NavigationChanges>
+    <ActionChange TargetID="42" TargetType="Page" />
+    <ActionChange TargetID="43" TargetType="Page" />
+    <ActionChange TargetID="119" TargetType="Page" />
+    <ActionChange TargetID="5900" TargetType="Page" />
+    <ActionChange TargetID="49" TargetType="Page" />
+    <ActionChange TargetID="5933" TargetType="Page" />
+    <ActionChange TargetID="41" TargetType="Page" />
+    <ActionChange TargetID="5964" TargetType="Page" />
+    <ActionChange TargetID="50" TargetType="Page" />
+    <ActionChange TargetID="51" TargetType="Page" />
+  </NavigationChanges>
+</NavigationDefinition>

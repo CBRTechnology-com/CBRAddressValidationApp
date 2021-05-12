@@ -1,0 +1,19 @@
+<Package xmlns="http://schemas.microsoft.com/navx/2015/manifest">
+  <App Id="c4aca0e3-a83d-4552-8a8a-ce2c32b1a931" Name="Address Validation" Publisher="CBR Technology Corp." Brief="Validates and suggests on the given ship-to address, based on the selection from the suggested addresses updates the Ship-to address in the Sales/Purchase transactions" Description="Validates and suggests on the given ship-to address, based on the selection from the suggested addresses updates the Ship-to address in the Sales/Purchase transactions" Version="17.0.0.0" CompatibilityId="0.0.0.0" PrivacyStatement="https://www.cbrtechnology.com/privacy-policy" ApplicationInsightsKey="00000000-0000-0000-0000-000000000000" EULA="https://www.cbrtechnology.com/copy-of-privacy-policy" Help="https://www.cbrtechnology.com/address-verification-app-help" HelpBaseUrl="" ContextSensitiveHelpUrl="https://addressvalidationappbc16.com/help/" Url="https://www.cbrtechnology.com/" Logo="/logo/logo.png" Platform="17.0.0.0" Runtime="6.0" Target="Extension" ShowMyCode="True" />
+  <IdRanges>
+    <IdRange MinObjectId="70376825" MaxObjectId="70376840" />
+  </IdRanges>
+  <Dependencies>
+    <Dependency Id="63ca2fa4-4f03-4f2b-a480-172fef340d3f" Name="System Application" Publisher="Microsoft" MinVersion="17.0.0.0" CompatibilityId="0.0.0.0" />
+    <Dependency Id="437dbf0e-84ff-417a-965d-ed2bb9650972" Name="Base Application" Publisher="Microsoft" MinVersion="17.0.0.0" CompatibilityId="0.0.0.0" />
+  </Dependencies>
+  <InternalsVisibleTo />
+  <ScreenShots />
+  <SupportedLocales />
+  <Features>
+    <Feature>TRANSLATIONFILE</Feature>
+  </Features>
+  <PreprocessorSymbols />
+  <SuppressWarnings />
+  <KeyVaultUrls />
+</Package>

@@ -1,0 +1,39 @@
+{
+  "id": "c4aca0e3-a83d-4552-8a8a-ce2c32b1a931",
+  "name": "Address Validation",
+  "publisher": "CBR Technology Corp.",
+  "brief": "Validates and suggests on the given ship-to address, based on the selection from the suggested addresses updates the Ship-to address in the Sales/Purchase transactions",
+  "description": "Validates and suggests on the given ship-to address, based on the selection from the suggested addresses updates the Ship-to address in the Sales/Purchase transactions",
+  "version": "17.0.0.0",
+  "privacyStatement": "https://www.cbrtechnology.com/privacy-policy",
+  "EULA": "https://www.cbrtechnology.com/copy-of-privacy-policy",
+  "help": "https://www.cbrtechnology.com/address-verification-app-help",
+  "url": "https://www.cbrtechnology.com/",
+  "logo": "./logo.png",
+  "features": [ "TranslationFile" ],
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "17.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "17.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "idRanges": [
+    {     
+      "from": 70376825,
+      "to": 70376840
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://addressvalidationappbc16.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}

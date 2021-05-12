@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Address Validation">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3257617714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3257617714 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3257617714 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3257617714 - Field 2748392062 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation - Field State Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3257617714 - Field 1215194884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Postal Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation - Field Postal Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3257617714 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3257617714 - Field 2542713143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation - Field Country Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3257617714 - Field 2241665020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation - Field Region - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1823025115 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address Validation Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1823025115 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1823025115 - Field 359602718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable for Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation Setup - Field Enable for Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1823025115 - Field 3062748979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable for Purchase</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation Setup - Field Enable for Purchase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1823025115 - Field 1937408209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable for Service</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation Setup - Field Enable for Service - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1823025115 - NamedType 1131121024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Would you like to Add AddressValidation Roles To Users?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CBR Address Validation Setup - NamedType CBRAV</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - Method 2284163885 - NamedType 848472796" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no matching address found in the UPS Address book for the given address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - Method ValidateAddressForSales - NamedType ErrorTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - Method 282762284 - NamedType 848472796" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no matching address found in the UPS Address book for the given address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - Method ValidateAddressForPurchase - NamedType ErrorTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - Method 2084235963 - NamedType 848472796" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no matching address found in the UPS Address book for the given address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - Method ValidateAddressForServ - NamedType ErrorTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;?xml version="1.0" ?&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;AccessRequest xml:lang=</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 3156354712" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType text100</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 2098338129" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType text200</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;AccessLicenseNumber&gt;9D564C0C07A4E998&lt;/AccessLicenseNumber&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;UserId&gt;kroselyne&lt;/UserId&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;Password&gt;Winter2011&lt;/Password&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/AccessRequest&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;?xml version="1.0" ?&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;AddressValidationRequest xml:lang=</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;Request&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;TransactionReference&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;CustomerContext&gt;Your Customer Context&lt;/CustomerContext&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 2939533186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;RequestAction&gt;XAV&lt;/RequestAction&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text012</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 2301836569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;RequestOption&gt;1&lt;/RequestOption&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text013</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 4214926420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/Request&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text014</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 3577229803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;AddressKeyFormat&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text015</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 1501667076" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;AddressLine&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType text0151</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 2475442189" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/AddressLine&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text0152</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 1195352358" size-unit="char" translate="yes" xml:space="preserve">
+          <source> &lt;Region&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text016</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 302616069" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/Region&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text0161</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 557655741" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;PoliticalDivision2&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text017</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 1301477030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/PoliticalDivision2&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text0171</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 857534312" size-unit="char" translate="yes" xml:space="preserve">
+          <source> &lt;PoliticalDivision1&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text018</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 2946374423" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/PoliticalDivision1&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text0181</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 219837695" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;PostcodePrimaryLow&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text019</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 3290387644" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/PostcodePrimaryLow&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text0195</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 382734328" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;CountryCode&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType text0191</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 1935593377" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/CountryCode&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType TExt0192</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 1940672225" size-unit="char" translate="yes" xml:space="preserve">
+          <source> &lt;/AddressKeyFormat&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text020</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 2578368842" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/AddressValidationRequest&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text021</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 1302975608" size-unit="char" translate="yes" xml:space="preserve">
+          <source>\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text023</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4227615122 - NamedType 196491397" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/TransactionReference&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CBR AddressValidation - NamedType Text024</note>
+        </trans-unit>
+        <trans-unit id="Page 1511035872 - Control 2748392062 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR_Address Suggestion List - Control State Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4161220986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address Validation Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR_Address Validation Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4161220986 - Control 3629789576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR_Address Validation Setup - Control CBRSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4161220986 - Control 359602718 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enables the users to use the Address validation app for Sales documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR_Address Validation Setup - Control Enable for Sales - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4161220986 - Control 3062748979 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enables the users to use the Address validation app for Purchase documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR_Address Validation Setup - Control Enable for Purchase - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4161220986 - Control 1937408209 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enables the users to use the Address validation app for Service documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CBR_Address Validation Setup - Control Enable for Service - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 112128577 - Action 3257617714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtendsSalesOrder - Action CBR Address Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 112128577 - Action 720992354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtendsSalesOrder - Action CBRAddressValidation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4072647253 - Action 3257617714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtendsSalesQuote - Action CBR Address Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4072647253 - Action 720992354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtendsSalesQuote - Action CBRAddressValidation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4072647253 - Action 720992354 - Method 1377591017 - NamedType 853573628" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source> Please Enable the Address Validation Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtendsSalesQuote - Action CBRAddressValidation - Method OnAction - NamedType Errortxt</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2191426840 - Action 3257617714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtSalesInv - Action CBR Address Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2191426840 - Action 720992354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtSalesInv - Action CBRAddressValidation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 663617889 - Action 3257617714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtPurchOrder - Action CBR Address Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 663617889 - Action 720992354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtPurchOrder - Action CBRAddressValidation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 329169269 - Action 3257617714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3321822267">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtPurchQuote - Action CBR Address Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 329169269 - Action 720992354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3321822267">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtPurchQuote - Action CBRAddressValidation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1125622988 - Action 3257617714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtPurchInv - Action CBR Address Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1125622988 - Action 720992354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2437096118">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtPurchInv - Action CBRAddressValidation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2505029779 - Action 3257617714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 846137257">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtendsServQuote - Action CBR Address Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2505029779 - Action 720992354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 846137257">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtendsServQuote - Action CBRAddressValidation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3993218462 - Action 3257617714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1224914752">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtendsServInvoice - Action CBR Address Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3993218462 - Action 720992354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1224914752">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtendsServInvoice - Action CBRAddressValidation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2225698463 - Action 3257617714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2145436509">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtendsServOrder - Action CBR Address Validation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2225698463 - Action 720992354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2145436509">
+          <source>Address Validation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CBR_ExtendsServOrder - Action CBRAddressValidation - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
